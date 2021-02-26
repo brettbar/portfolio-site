@@ -1,0 +1,6 @@
+body {
+    background-color: var(--theme-primary);
+    margin: 0;
+    margin-left: 5rem;
+    color: var(--text-secondary);
+}
